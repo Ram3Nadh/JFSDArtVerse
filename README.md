@@ -3,6 +3,8 @@ Please follow the instructions to run this project.
 
  step 2) run as spring boot app.
 
+ step 3) update your mail and pass(Create a app pass) and use them.
+
  these two steps are enough to run the application on your local device.
 
  Now we will see some features of this project- 
