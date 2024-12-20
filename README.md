@@ -12,6 +12,26 @@ Please follow the instructions to run this project.
  1. admin
  2. user.
 
+
+
+Project Highlights:
+
+
+Enhanced Security -
+The project prioritizes security by implementing robust encryption for passwords, ensuring secure storage in the database.
+
+Comprehensive Email Services -
+Users receive timely email notifications, including order confirmation upon placing an order and updates on order status changes. Additionally, a secure token-based system is in place for password reset functionality.
+
+Efficient Session Management -
+To enhance security, users are automatically logged out after 90 seconds of inactivity, protecting sensitive information and ensuring secure access.
+
+VR Model Integration -
+The project features an integrated VR model, offering users an immersive experience that elevates engagement and interactivity.
+
+Optimized User Experience -
+Designed with user-friendliness in mind, the project ensures smooth and intuitive interactions, providing a seamless and enjoyable experience for all users.
+
 Admin module execution - 
 
 1)First User should register.
@@ -90,23 +110,7 @@ User Module -
    you will recieve a confirmation mail.
 
 
-Project Highlights:
 
-
-Enhanced Security -
-The project prioritizes security by implementing robust encryption for passwords, ensuring secure storage in the database.
-
-Comprehensive Email Services -
-Users receive timely email notifications, including order confirmation upon placing an order and updates on order status changes. Additionally, a secure token-based system is in place for password reset functionality.
-
-Efficient Session Management -
-To enhance security, users are automatically logged out after 90 seconds of inactivity, protecting sensitive information and ensuring secure access.
-
-VR Model Integration -
-The project features an integrated VR model, offering users an immersive experience that elevates engagement and interactivity.
-
-Optimized User Experience -
-Designed with user-friendliness in mind, the project ensures smooth and intuitive interactions, providing a seamless and enjoyable experience for all users.
 
 
 
