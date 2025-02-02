@@ -9,7 +9,7 @@ Please follow the instructions to run this project.
 
  Now we will see some features of this project- 
  there are two modules in this project 
- 1. admin
+ 1. admin.
  2. user.
 
 
