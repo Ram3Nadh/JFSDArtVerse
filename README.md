@@ -37,9 +37,7 @@ Admin module execution -
 1)First User should register.
 ![image](https://github.com/user-attachments/assets/bb99b958-a2e8-45a8-9219-4da1d637a440)
 
-2) click on Register Button and fill the data -
-
-![image](https://github.com/user-attachments/assets/12b8e1c2-6714-4908-9804-05e9fd218a7b)
+2) click on Register Button and fill the data .
 
 please fill data carefully, validation is used on those fields.
 
