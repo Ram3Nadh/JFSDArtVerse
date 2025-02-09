@@ -79,7 +79,6 @@ Admin module execution -
 
 User Module -
 1) User should Register and use them for login.
-   ![image](https://github.com/user-attachments/assets/3ed51a60-868f-46f7-a179-213d5330f64e)
 
    ![image](https://github.com/user-attachments/assets/47cacaf5-1d4e-4e2c-bfb9-cb1cfee92201)
 
