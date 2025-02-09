@@ -39,7 +39,7 @@ Admin module execution -
 
 2) click on Register Button and fill the data .
 
-please fill data carefully, validation is used on those fields.
+    please fill data carefully, validation is used on those fields.
 
 3) open you mysql user_dtls see all the details.
    ![image](https://github.com/user-attachments/assets/73b9c0a7-0ccd-43ea-94ec-2aa8c121fc3c)
